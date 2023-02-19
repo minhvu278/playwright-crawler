@@ -1,0 +1,6 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/tests/hocbanglaixehcm/image200
+/tests/hocbanglaixehcm/records
